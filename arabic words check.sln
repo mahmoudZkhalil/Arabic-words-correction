@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arabic words check", "arabic words check\arabic words check.csproj", "{B04EB7DE-4DF7-4356-AC64-5B3B93F2D917}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B04EB7DE-4DF7-4356-AC64-5B3B93F2D917}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B04EB7DE-4DF7-4356-AC64-5B3B93F2D917}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B04EB7DE-4DF7-4356-AC64-5B3B93F2D917}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B04EB7DE-4DF7-4356-AC64-5B3B93F2D917}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

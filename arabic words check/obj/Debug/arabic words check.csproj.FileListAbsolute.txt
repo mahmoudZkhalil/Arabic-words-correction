@@ -1,0 +1,4 @@
+c:\users\zain\documents\visual studio 2012\Projects\arabic words check\arabic words check\bin\arabic words check.dll
+c:\users\zain\documents\visual studio 2012\Projects\arabic words check\arabic words check\bin\arabic words check.pdb
+c:\users\zain\documents\visual studio 2012\Projects\arabic words check\arabic words check\obj\Debug\arabic words check.dll
+c:\users\zain\documents\visual studio 2012\Projects\arabic words check\arabic words check\obj\Debug\arabic words check.pdb
